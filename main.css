@@ -2,9 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Courier New', Courier, monospace;
-    background-color: rgb(151, 165, 247);
 }
+
 body {
     width: 100vw;
     height: 100vh;
@@ -17,6 +16,7 @@ body {
     margin: 160px auto;
     max-width: 480px;
     width: 100%;
+    text-align: center;
 }
 
 form {
@@ -47,5 +47,5 @@ button {
 }
 
 button:hover {
-    background-color: rgb(84, 78, 167);
+    background-color: rgb(136, 136, 139);
 }
