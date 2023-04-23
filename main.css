@@ -5,6 +5,14 @@
     font-family: 'Courier New', Courier, monospace;
     background-color: rgb(151, 165, 247);
 }
+body {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('./images/fundo.jpg');
+    background-size: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
 .container {
     margin: 160px auto;
     max-width: 480px;
